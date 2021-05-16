@@ -1,0 +1,14 @@
+.card-nota { 
+    border: 1px solid rgb(12, 19, 24);
+    padding: 10px;
+    background: #81cf8b; 
+    width: 300px;
+}
+ 
+.card-nota h3 {
+    color: rgb(69, 22, 122);
+}
+
+.card-nota p {
+    color: rgb(35, 45, 65);
+}

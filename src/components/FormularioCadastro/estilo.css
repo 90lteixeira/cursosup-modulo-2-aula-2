@@ -1,0 +1,21 @@
+input[type=text], select, textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+  }
+
+.cadastro-nota-input{
+    background-color: #0c3628; 
+    clear: both;
+    color: white;
+}
+ 
+.cadastro-nota-button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+

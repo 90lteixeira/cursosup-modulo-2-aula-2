@@ -1,0 +1,9 @@
+.lista-nota {
+    color: #9c7d16;
+    font-weight: bold;
+}
+
+.lista-nota ul li {
+    display: inline-block;
+    padding-right: 4px;
+}
