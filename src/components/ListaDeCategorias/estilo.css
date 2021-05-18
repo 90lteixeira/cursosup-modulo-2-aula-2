@@ -1,0 +1,28 @@
+.categoria ul {
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 0px;
+  margin: 0px;
+  background-color: #adacac;
+  list-style: none;
+}
+
+.categoria ul li {
+  margin-right: 5%;
+  display: inline;
+}
+
+.categoria ul li a {
+  padding: 2px 10px;
+  display: inline-block;
+  background-color: #ededed;
+  color: #333;
+  text-decoration: none;
+  border-bottom: 3px solid #ededed;
+}
+
+.categoria ul li a:hover {
+  background-color: #d6d6d6;
+  color: #6d6d6d;
+  border-bottom: 3px solid #ea0000;
+}
