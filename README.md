@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### Dúvidas 
+- o setstate dentro do componente vai atualiza somente aquele componente certo? como que o pai consegue saber que esse cara foi atualizado? não entendi muito bem como funciona isso.
+se eu atualizar o state em um componente, outros componentes consegue ver esse cara mesmo assim? tem exemplo melhora pra mostra isso?
